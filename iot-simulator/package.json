@@ -1,0 +1,18 @@
+{
+  "name": "iot-log-simulator",
+  "version": "1.0.0",
+  "description": "IoT device log simulator for Smart Log Management System",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["iot", "simulator", "logs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  }
+}
+
